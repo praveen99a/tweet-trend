@@ -34,8 +34,7 @@ environment {
                           "files": [
                             {
                               "pattern": "jarstaging/(*)",
-                              "target": "com/valaxy/demo-workshop/2.1.2/
-/+{1}",
+                              "target": "com/valaxy/demo-workshop/2.1.2/+{1}",
                               "flat": "false",
                               "props" : "${properties}",
                               "exclusions": [ "*.sha1", "*.md5"]
