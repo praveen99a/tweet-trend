@@ -118,7 +118,7 @@
 	<distributionManagement>
 		<repository>
 			<id>dev</id>
-			<url>file://jarstaging</url>
+			<url>file://home/ubuntu//jenkins/workspace/tweettrend/jarstaging/com/valaxy/demo-workshop/2.1.2</url>
 		</repository>
 	</distributionManagement>
 
