@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.2.0.RELEASE</version>
-		<relativePath/> <!-- lookup  from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.valaxy</groupId>
 	<artifactId>demo-workshop</artifactId>
@@ -118,7 +118,7 @@
 	<distributionManagement>
 		<repository>
 			<id>dev</id>
-			<url>file://home/ubuntu//jenkins/workspace/tweettrend/jarstaging/com/valaxy/demo-workshop/2.1.2</url>
+			<url>file://jarstaging</url>
 		</repository>
 	</distributionManagement>
 
